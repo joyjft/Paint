@@ -6,5 +6,7 @@ o	Platform : Windows<br>
 o	Language : C++<br>
 o	Core features : Draw basic shapes, free hand drawing, color object, save Image<br>
 
+![Demo](Demo.PNG)
+
 
 
